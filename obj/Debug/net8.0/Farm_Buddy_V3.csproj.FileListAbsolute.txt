@@ -1,0 +1,14 @@
+C:\Users\CP\Desktop\CsharpProjects\Farm Buddy V3\obj\Debug\net8.0\Farm_Buddy_V3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CP\Desktop\CsharpProjects\Farm Buddy V3\obj\Debug\net8.0\Farm_Buddy_V3.AssemblyInfoInputs.cache
+C:\Users\CP\Desktop\CsharpProjects\Farm Buddy V3\obj\Debug\net8.0\Farm_Buddy_V3.AssemblyInfo.cs
+C:\Users\CP\Desktop\CsharpProjects\Farm Buddy V3\obj\Debug\net8.0\Farm_Buddy_V3.csproj.CoreCompileInputs.cache
+C:\Users\CP\Desktop\CsharpProjects\Farm Buddy V3\bin\Debug\net8.0\Farm_Buddy_V3.exe
+C:\Users\CP\Desktop\CsharpProjects\Farm Buddy V3\bin\Debug\net8.0\Farm_Buddy_V3.deps.json
+C:\Users\CP\Desktop\CsharpProjects\Farm Buddy V3\bin\Debug\net8.0\Farm_Buddy_V3.runtimeconfig.json
+C:\Users\CP\Desktop\CsharpProjects\Farm Buddy V3\bin\Debug\net8.0\Farm_Buddy_V3.dll
+C:\Users\CP\Desktop\CsharpProjects\Farm Buddy V3\bin\Debug\net8.0\Farm_Buddy_V3.pdb
+C:\Users\CP\Desktop\CsharpProjects\Farm Buddy V3\obj\Debug\net8.0\Farm_Buddy_V3.dll
+C:\Users\CP\Desktop\CsharpProjects\Farm Buddy V3\obj\Debug\net8.0\refint\Farm_Buddy_V3.dll
+C:\Users\CP\Desktop\CsharpProjects\Farm Buddy V3\obj\Debug\net8.0\Farm_Buddy_V3.pdb
+C:\Users\CP\Desktop\CsharpProjects\Farm Buddy V3\obj\Debug\net8.0\Farm_Buddy_V3.genruntimeconfig.cache
+C:\Users\CP\Desktop\CsharpProjects\Farm Buddy V3\obj\Debug\net8.0\ref\Farm_Buddy_V3.dll
